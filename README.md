@@ -35,8 +35,8 @@ Setup Instructions:
     node app.js
 
 API Endpoints
-1. Create a New Property
-Endpoint: POST /api/housing
+1. Create a New Property,
+Endpoint: POST /api/housing,
 Request Body:
 {
     "title": "Villa 4",
